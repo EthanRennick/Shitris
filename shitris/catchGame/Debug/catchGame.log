@@ -1,0 +1,8 @@
+﻿  Tetris.cpp
+c:\users\c00240102\desktop\catchgame\catchgame\tetris.cpp(105): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\c00240102\desktop\catchgame\catchgame\tetris.cpp(108): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+c:\users\c00240102\desktop\catchgame\catchgame\tetris.cpp(402): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\c00240102\desktop\catchgame\catchgame\tetris.cpp(412): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\c00240102\desktop\catchgame\catchgame\tetris.cpp(447): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\c00240102\desktop\catchgame\catchgame\tetris.cpp(453): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  catchGame.vcxproj -> C:\Users\c00240102\Desktop\catchGame\Debug\catchGame.exe
